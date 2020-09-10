@@ -1,0 +1,3 @@
+ kdestroy
+ klist
+ kinit mtkach@ucode.world
